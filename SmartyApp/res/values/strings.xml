@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EagleEyes</string>
+    <string name="hello_world">Hey ! Welcome to findMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="ClickMe">Lets Start</string>
+    <string name="hello">Hello Chris</string>
+    <string name="menu_next_camera">Next Camera</string>
+    <string name="menu_take_photo">Take Photo</string>
+    <string name="ShowImage">Show Image</string>
+    <string name="proceed">Proceed</string>
+    <string name="Construct">Hey We are still contructing!</string>
+    <string name="welcome">Welcome to EagleEyes</string>
+    <string name="my_app_name">EagleEyes</string>
+    <string name="my_apps_name">EagleEyes</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mybackbur"
+    tools:context="com.ChrisClass.smartyapp.MainActivity" >
+
+    <Button
+        android:id="@+id/btnDisplay"
+        android:layout_width="168dp"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome" />
+
+    <Button
+        android:id="@+id/btnClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:onClick="onClickme"
+        android:text="@string/ClickMe" />
+
+</LinearLayout>
